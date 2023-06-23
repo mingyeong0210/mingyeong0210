@@ -1,10 +1,10 @@
 ### Hi there, I'm mingyeong 👋
 
-<a href="https://www.instagram.com/gyeong0210/" target="_blank"><img src="https://simpleicons.org/icons/instagram.svg/badge/gyeong0210-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/gyeong0210/" target="_blank"><img src="https://simpleicons.org/icons/instagram.svg/badge/gyeong0210-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
-<a href="https://blog.naver.com/gyeong0210_" target="_blank"><img src="https://simpleicons.org/icons/naver.svg/badge/gyeong0210-03C75A?style=flat-square&logo=NaverBlog&logoColor=white"/></a>
+<a href="https://blog.naver.com/gyeong0210_" target="_blank"><img src="https://simpleicons.org/icons/naver.svg/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 
-<a href="https://www.google.com/intl/ko/gmail/about/" target="_blank"><img src="https://simpleicons.org/icons/gmail.svg/badge/gyeong0210-EA4335?style=flat-square&logo=Mail&logoColor=white"/></a>
+<a href="https://www.google.com/intl/ko/gmail/about/" target="_blank"><img src="https://simpleicons.org/icons/gmail.svg/badge/mail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 
 <!--
