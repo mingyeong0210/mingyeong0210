@@ -13,7 +13,7 @@
 <br>
 
 ![mingyeong0210's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyeong0210&show_icons=true&theme=buefy)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=<mingyeong0210>&show_icons=true&locale=en&layout=compact" alt="<mingyeong0210>" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mingyeong0210&show_icons=true&locale=en&layout=compact" alt="mingyeong0210" /></p>
 
 
 #### ⭐ Skills (Platforms & Languages)
