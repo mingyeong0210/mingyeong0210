@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=9F85F7&width=435&lines=Hello%2C+I'm+mingyeong+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-<a href="https://blog.naver.com/gyeong0210_" target="_blank""><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://blog.naver.com/gyeong0210_" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/gyeong0210-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
 
