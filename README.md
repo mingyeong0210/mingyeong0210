@@ -10,7 +10,7 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyeong0210&show_icons=true&theme=buefy)
 
 #### ⭐ Skills (Platforms & Languages)
 <p>
