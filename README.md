@@ -12,7 +12,8 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyeong0210&show_icons=true&theme=buefy)
+![mingyeong0210's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyeong0210&show_icons=true&theme=buefy)
+[![mingyeong0210's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mingyeong0210&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/mingyeong0210)
 
 #### ⭐ Skills (Platforms & Languages)
 <p>
