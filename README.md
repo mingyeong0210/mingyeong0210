@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/gyeong0210-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
 
-<a href="https://www.google.com/intl/ko/gmail/about/" target="_blank"><img src="https://img.shields.io/badge/mica7150@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.google.com/intl/ko/gmail/about/" target="_blank"><img src="https://img.shields.io/badge/mica7150@gmail.com-1877F2?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <a href="https://www.instagram.com/gyeong0210/" target="_blank"><img src="https://img.shields.io/badge/gyeong0210-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
