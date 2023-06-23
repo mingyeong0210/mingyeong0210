@@ -13,6 +13,8 @@
 <br>
 
 ![mingyeong0210's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyeong0210&show_icons=true&theme=buefy)
+[![mingyeong0210's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mingyeong0210&show_icons=true&hide_border=fasle&title_color=8f72db&icon_color=8f72db&layout=compact)](https://github.com/mingyeong0210)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mingyeong0210&show_icons=true&locale=en&layout=compact" alt="mingyeong0210" /></p>
 
 
