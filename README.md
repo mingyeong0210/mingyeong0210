@@ -1,4 +1,4 @@
-### Hi there, I'm mingyeong 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=9F85F7&width=435&lines=Hello%2C+I'm+mingyeong+%F0%9F%91%8B;Welcome+to+my+github" alt="Typing SVG" /></a>
 
 <a href="https://www.instagram.com/gyeong0210/" target="_blank"><img src="https://simpleicons.org/icons/instagram.svg/badge/gyeong0210-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
