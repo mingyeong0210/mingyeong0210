@@ -1,6 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&duration=1&pause=10000&color=A39CFF&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=%F0%9F%92%9C+Welcome+to+my+GitHub+%F0%9F%92%9C" alt="Typing SVG" /></a>
 
 <p allign = center>
+  
 #### 🫧 SNS
 <p>
 <a href="https://blog.naver.com/gyeong0210_" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
@@ -25,4 +26,6 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+</p>
+
 </p>
