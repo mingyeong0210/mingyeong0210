@@ -7,7 +7,8 @@
 [![mingyeong0210's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mingyeong0210&show_icons=true&hide_border=fasle&title_color=8f72db&icon_color=8f72db&layout=compact)](https://github.com/mingyeong0210)
 
 #### ☁ Languages & Tools ☁
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1753087195973?alt=media&token=42b5e95b-368c-47f9-b165-95d3a081ad01)](https://github.com/msdio/stackticon)
-
+[![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,styledcomponents,html,css,react,vite,vscode)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=java,idea,spring,nodejs,mysql,postman)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=git,github,aws,docker,ps,ai,figma,notion)](https://skillicons.dev)
 
 </div>
